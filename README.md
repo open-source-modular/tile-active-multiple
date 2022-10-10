@@ -1,2 +1,3 @@
 # tile-active-multiple
-An active multiple in the tile form factor.
+
+An active multiple tile with one input and three outputs.
